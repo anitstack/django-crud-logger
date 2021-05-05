@@ -1,0 +1,17 @@
+INFO 2021-04-15T17:57:33 django.utils.autoreload.run_with_reloader:636- Watching for file changes with StatReloader
+INFO 2021-04-15T18:12:15 django.utils.autoreload.trigger_reload:250- /home/algoscale/Desktop/projects/djnago_sample/crud_operation/template/dashboard.html changed, reloading.
+INFO 2021-04-15T18:12:17 django.utils.autoreload.run_with_reloader:636- Watching for file changes with StatReloader
+INFO 2021-04-15T18:13:51 django.server.log_message:161- "GET /user/ HTTP/1.1" 200 2067
+INFO 2021-04-15T18:13:51 django.server.log_message:161- "GET /static/js/bootstrap.min.js HTTP/1.1" 200 63240
+INFO 2021-04-15T18:13:51 django.server.log_message:161- "GET /static/css/bootstrap.min.css HTTP/1.1" 200 160392
+WARNING 2021-04-15T18:13:52 django.request.log_response:224- Not Found: /favicon.ico
+WARNING 2021-04-15T18:13:52 django.server.log_message:161- "GET /favicon.ico HTTP/1.1" 404 2322
+INFO 2021-04-15T18:14:08 django.utils.autoreload.trigger_reload:250- /home/algoscale/Desktop/projects/djnago_sample/crud_operation/template/dashboard.html changed, reloading.
+INFO 2021-04-15T18:14:08 django.utils.autoreload.run_with_reloader:636- Watching for file changes with StatReloader
+INFO 2021-04-15T18:14:10 django.utils.autoreload.trigger_reload:250- /home/algoscale/Desktop/projects/djnago_sample/crud_operation/template/dashboard.html changed, reloading.
+INFO 2021-04-15T18:15:34 django.utils.autoreload.run_with_reloader:636- Watching for file changes with StatReloader
+INFO 2021-04-15T18:15:39 django.server.log_message:161- "GET /user/ HTTP/1.1" 200 1993
+INFO 2021-04-15T18:15:39 django.server.log_message:161- "GET /static/js/bootstrap.min.js HTTP/1.1" 200 63240
+INFO 2021-04-15T18:15:39 django.server.log_message:161- "GET /static/css/bootstrap.min.css HTTP/1.1" 200 160392
+WARNING 2021-04-15T18:15:40 django.request.log_response:224- Not Found: /favicon.ico
+WARNING 2021-04-15T18:15:40 django.server.log_message:161- "GET /favicon.ico HTTP/1.1" 404 2322
